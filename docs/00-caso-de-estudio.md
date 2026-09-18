@@ -18,5 +18,3 @@ Desarrollar un criterio técnico sólido para la toma de decisiones en el diseñ
 #### Paso 1: Crear el proyecto e instalar dependencias
 ![Paso 1](./paso1.png)
 
-#### Paso 2: Configuración del entorno
-![Paso 2](./paso2.png)
